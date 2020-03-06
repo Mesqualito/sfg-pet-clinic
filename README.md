@@ -1,6 +1,9 @@
-Forked due to https://www.udemy.com/course/spring-framework-5-beginner-to-guru/learn/lecture/17789252
+# Spring Framework Guru Pet Clinic
 
-"Sync project" to https://github.com/Mesqualito/fetenarchiv
+This repo is a clone of John Thompsons online course called [Spring Framework 5: Beginner to Guru](https://www.udemy.com/spring-framework-5-beginner-to-guru/?couponCode=GITHUB_SFGPETCLINIC).
+
+Contained in this repo is an opinionated version of the classic reference application - [Spring Pet Clinic](https://github.com/spring-projects/spring-petclinic)
+
 
 
 # License
